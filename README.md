@@ -14,4 +14,3 @@ Indianapolis Van-Life and doing chores for parking https://www.youtube.com/watch
 ### Medium Posts:
 Van-Life Work Setup for Data Scientists: https://jasonbian.medium.com/van-life-work-setup-for-data-scientists-18b5e2ebb9e
 
-### Optimization: 
