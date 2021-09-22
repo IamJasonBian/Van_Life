@@ -5,6 +5,9 @@ Hey, this is a collection of house-van videos and van-life optimization.
 Page is under construction right now, but I'm working to loosely tie together all van-related content:
 
 ### Youtube Vlogs:
+
+Meaning of Van-Life: https://www.youtube.com/watch?v=pxQSQpd4QFA&t=50s&ab_channel=JasonBian
+
 Ford Transit 250, Insulation, and Sound Damping Foam: https://www.youtube.com/watch?v=QT2B2MkhxyU&ab_channel=JasonBianJasonBian
 
 The key to solo van-life is to get a driver https://www.youtube.com/watch?v=y4fq7Fw3Rlk&t=43s
