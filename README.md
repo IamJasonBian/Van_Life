@@ -1,7 +1,7 @@
 # Van_Life
 
 
-This is a collection of house-van videos and van-life optimization. 
+This is a collection of house-van videos, van-life optimization, van life sales, and van life rentals. 
 Page is under construction right now, but I'm working to loosely tie together all van-related content:
 
 ### Youtube Vlogs:
